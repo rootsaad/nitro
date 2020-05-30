@@ -1,4 +1,4 @@
-# nitro claimer by rootsaad
+# nitro claimer
 simple script to auto-claim nitro codes
 
 ## Warning
